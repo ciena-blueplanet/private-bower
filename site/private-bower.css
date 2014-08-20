@@ -59,7 +59,10 @@ footer h4 a {
 }
 
 .jumbotron {
-    background-color: #1695A3;
+    background-color: #000;;
+    background-image: url('https://central.cyaninc.com/static/resources/images/apps/common/Cyan_BluePlanet_Image.jpg');
+    background-position:center -40px;
+    background-repeat: no-repeat;
     padding-top: 30px;
     padding-bottom: 15px;
 }
